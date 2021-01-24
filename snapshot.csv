@@ -1,0 +1,337 @@
+Id,Process Name,Physical Memory
+62823,mdworker_shared,7229440
+62663,mdmclient,41127936
+62491,mdworker_shared,14082048
+62490,mdworker_shared,31891456
+62489,mdworker_shared,21721088
+62467,com.apple.iCloudHelper,11329536
+62298,MTLCompilerService,14995456
+62297,MTLCompilerService,11079680
+62232,FinderSyncExtension,91045888
+62231,FinderSync,35573760
+62209,QuickLookUIService,11788288
+62208,com.apple.appkit.xpc.openAndSavePanelService,169512960
+62102,mdworker_shared,17874944
+62101,mdworker_shared,16257024
+62073,Electron Helper (Renderer),66781184
+62057,processes,78778368
+62056,VTDecoderXPCService,21782528
+62055,Electron Helper,23826432
+62054,Electron Helper (GPU),35667968
+62053,Electron,81154048
+62052,node,22487040
+62051,bash,1126400
+62003,mdworker_shared,16035840
+61993,bash,1187840
+61963,dotnet,85778432
+61961,dotnet,148029440
+61934,electronize,25202688
+54399,remindd,24375296
+39649,Code Helper (Renderer),30298112
+39542,Microsoft Edge Helper (Renderer),42004480
+39240,Microsoft Edge Helper (Renderer),109084672
+39238,Microsoft Edge Helper (Renderer),105271296
+35717,Code Helper (Renderer),85786624
+35716,Code Helper (Renderer),30433280
+34824,Microsoft Edge Helper (Renderer),190595072
+34459,Microsoft Edge Helper (Renderer),59113472
+31561,swcd,9355264
+29546,gitstatusd-darwin-x86_64,1265664
+29544,zsh,729088
+29543,zsh,1064960
+28908,zsh,1490944
+28904,zsh,8413184
+27034,MTLCompilerService,13787136
+27033,MTLCompilerService,5910528
+26948,rcd,10973184
+25123,Code Helper (Renderer),66420736
+25111,mono,494866432
+25106,bash,1200128
+25103,rzls,136204288
+25062,Code Helper (Renderer),49119232
+25061,node,92127232
+25060,Code Helper (Renderer),44290048
+25056,Code Helper (Renderer),35737600
+25034,Code Helper (Renderer),42418176
+25033,Code Helper (Renderer),219922432
+25031,Code Helper (Renderer),127291392
+24506,Code Helper (Renderer),473653248
+24505,Code Helper,27590656
+24504,VTDecoderXPCService,17117184
+24503,Code Helper (GPU),108761088
+24502,chrome_crashpad_handler,3710976
+24442,Electron,150069248
+17569,OSDUIHelper,15048704
+16022,Microsoft Edge Helper (Renderer),456052736
+13257,USBAgent,5595136
+11840,coreautha,19709952
+10821,amsengagementd,20713472
+10798,bash,1200128
+10017,contactsdonationagent,22020096
+8855,avatarsd,43180032
+8745,passd,63553536
+8687,iCloudNotificationAgent,58277888
+7851,AMPArtworkAgent,9080832
+7850,com.apple.BKAgentService,7692288
+7849,PodcastContentService,6860800
+7835,media-indexer,8462336
+7485,MailCacheDelete,9895936
+7484,IDECacheDeleteAppExtension,79966208
+6804,IMAutomaticHistoryDeletionAgent,8564736
+6803,transparencyd,9007104
+5887,localizationswitcherd,4558848
+5483,com.apple.siri.ClientFlow.ClientScripter,10989568
+5245,mapspushd,13930496
+4921,EscrowSecurityAlert,9129984
+3623,MTLCompilerService,12111872
+3580,MTLCompilerService,12529664
+3472,MTLCompilerService,13275136
+3471,MTLCompilerService,5947392
+2875,FMIPClientXPCService,4395008
+2874,siriknowledged,10317824
+2705,storeaccountd,11202560
+2703,assistant_service,45686784
+2699,com.apple.audio.SandboxHelper,3362816
+2680,devicecheckd,2674688
+2678,AquaAppearanceHelper,14831616
+2083,com.apple.audio.SandboxHelper,3276800
+2082,com.apple.speech.speechsynthesisd,26435584
+2081,SiriNCService,17444864
+2014,mdworker,8368128
+1970,Microsoft Edge Helper (Renderer),138792960
+1909,Microsoft Edge Helper (Renderer),121147392
+1908,Microsoft Edge Helper (Renderer),114655232
+1836,Microsoft Edge Helper (Renderer),178434048
+1787,Microsoft Edge Helper (Renderer),298557440
+1762,Microsoft Edge Helper (Renderer),66457600
+1759,Microsoft Edge Helper (Renderer),134864896
+1734,Microsoft Edge Helper (Renderer),133074944
+1732,Microsoft Edge Helper (Renderer),72716288
+1731,Microsoft Edge Helper (Renderer),79650816
+1702,Microsoft Edge Helper (Renderer),133005312
+1701,Microsoft Edge Helper (Renderer),136822784
+1676,Microsoft Edge Helper (Renderer),248893440
+1672,Microsoft Edge Helper (Renderer),83918848
+1669,Microsoft Edge Helper (Renderer),142790656
+1666,Microsoft Edge Helper (Renderer),108503040
+1663,Microsoft Edge Helper (Renderer),188813312
+1662,Microsoft Edge Helper (Renderer),89915392
+1631,Microsoft Edge Helper (Renderer),249618432
+1605,Slack Helper (Renderer),299847680
+1604,Microsoft Edge Helper (Renderer),135528448
+1603,Microsoft Edge Helper (Renderer),146554880
+1602,VTEncoderXPCService,47214592
+1601,Slack Helper,29515776
+1598,VTDecoderXPCService,21008384
+1597,Slack Helper (GPU),49012736
+1596,SafariCloudHistoryPushAgent,10866688
+1594,SafariBookmarksSyncAgent,65179648
+1590,keyboardservicesd,10039296
+1569,CallHistorySyncHelper,15835136
+1568,AppleSpell,38842368
+1565,Microsoft Edge Helper (Renderer),132218880
+1542,Notion Helper (Renderer),60203008
+1540,Notion Helper (Renderer),183468032
+1538,Notion Helper (Renderer),72720384
+1537,VTDecoderXPCService,22159360
+1536,Notion Helper,30474240
+1535,Notion Helper (GPU),43896832
+1534,Microsoft Edge Helper (Renderer),411406336
+1533,Microsoft Edge Helper (Renderer),141553664
+1532,Microsoft Edge Helper (Renderer),131911680
+1510,NowPlayingTouchUI,19083264
+1509,chrome_crashpad_handler,3776512
+1504,com.apple.audio.SandboxHelper,3182592
+1503,Microsoft Edge Helper,36732928
+1502,mdbulkimport,26624000
+1478,Slack,124719104
+1472,Notion,127967232
+1467,Microsoft Edge Helper (Renderer),55676928
+1464,Microsoft Edge Helper (Renderer),61038592
+1463,Microsoft Edge Helper (Renderer),383135744
+1462,Microsoft Edge Helper (Renderer),55877632
+1460,Microsoft Edge Helper (Renderer),55500800
+1458,Microsoft Edge Helper (Renderer),84983808
+1457,Microsoft Edge Helper (Renderer),56356864
+1435,Microsoft Edge Helper (Renderer),57303040
+1429,Microsoft Edge Helper (Renderer),375660544
+1403,Microsoft Edge Helper (Renderer),447283200
+1402,Microsoft Edge Helper (Renderer),62144512
+1371,Microsoft Edge Helper (Renderer),138121216
+1359,Microsoft Edge Helper (Renderer),58007552
+1357,CategoriesService,10579968
+1354,zsh,700416
+1353,gitstatusd-darwin-x86_64,1298432
+1352,zsh,1548288
+1322,SoftwareUpdateNotificationManager,16617472
+1241,AlertNotificationService,3858432
+1234,Microsoft Edge Helper,71315456
+1226,VTDecoderXPCService,58191872
+1199,Microsoft Edge Helper,145772544
+1198,Microsoft Edge Helper (GPU),269963264
+1196,cloudphotod,13426688
+1117,findmydevice-user-agent,9674752
+892,msedge_crashpad_handler,4161536
+869,httpd,946176
+868,httpd,937984
+867,httpd,921600
+866,httpd,933888
+863,httpd,925696
+854,IMRemoteURLConnectionAgent,2179072
+849,ContextService,11104256
+729,AMPLibraryAgent,75309056
+662,com.apple.siri.ClientFlow.ClientScripter,10907648
+660,UsageTrackingAgent,8269824
+643,zsh,1589248
+640,pidinfo,2256896
+638,followupd,4509696
+637,zsh,9678848
+635,photoanalysisd,111628288
+633,iTermServer-3.4.3,688128
+631,adprivacyd,17993728
+630,ContainerMetadataExtractor,12247040
+624,AssetCacheLocatorService,10993664
+623,mariadbd,84807680
+605,CMFSyncAgent,8228864
+582,PlugInLibraryService,1953792
+581,SidecarRelay,4919296
+569,CoreLocationAgent,15216640
+561,progressd,11612160
+557,iTerm2,242311168
+548,Itsycal,43040768
+547,TextInputSwitcher,18526208
+543,Spectacle,21979136
+540,neagent,8400896
+536,ctkahp,5791744
+534,amsaccountsd,14041088
+533,TextInputMenuAgent,189890560
+532,bash,1269760
+530,cloudpaird,17510400
+529,AirPlayUIAgent,13090816
+528,httpd,17907712
+526,askpermissiond,11694080
+525,icdd,11493376
+524,Siri,19320832
+518,corespeechd,16330752
+516,Microsoft Edge,937738240
+514,spindump_agent,3661824
+512,MusicCacheExtension,10919936
+511,TVCacheExtension,10727424
+510,IMRemoteURLConnectionAgent,9621504
+509,fmfd,57118720
+507,VTDecoderXPCService,22609920
+505,ReportCrash,3801088
+504,CacheDeleteExtension,13217792
+503,com.apple.audio.SandboxHelper,3256320
+502,com.apple.siri.embeddedspeech,216682496
+501,CarbonComponentScannerXPC,6688768
+499,AudioComponentRegistrar,6963200
+498,replayd,9392128
+496,diagnostics_agent,8704000
+495,storedownloadd,9670656
+490,appstoreagent,81346560
+488,suggestd,46252032
+486,assistantd,43143168
+484,corespotlightd,28635136
+483,IMRemoteURLConnectionAgent,9289728
+482,deleted,9646080
+481,IMRemoteURLConnectionAgent,9396224
+480,mediaremoteagent,3403776
+479,familycircled,58261504
+478,IMRemoteURLConnectionAgent,10076160
+477,SafeEjectGPUService,5337088
+476,SafeEjectGPUAgent,3399680
+474,diagnosticextensionsd,11902976
+472,UIKitSystem,45150208
+471,ctkd,8335360
+470,com.apple.CharacterPicker.FileService,3653632
+469,pbs,6008832
+468,commerce,65122304
+467,EmojiFunctionRowIM_Extension,23846912
+466,PAH_Extension,13004800
+465,QuickLookSatellite,44425216
+464,imklaunchagent,7876608
+463,triald,11972608
+460,parsecd,18608128
+459,FinderSyncExtension,77434880
+458,FinderSync,33042432
+457,Spotlight,35725312
+456,com.apple.geod,21446656
+455,AppSSOAgent,16539648
+454,com.apple.CloudDocs.MobileDocumentsFileProvider,10563584
+453,IMDPersistenceAgent,26374144
+452,ContextStoreAgent,27869184
+451,fileproviderd,12181504
+450,imagent,20750336
+449,ScopedBookmarkAgent,4673536
+447,PhotosReliveWidget,72757248
+446,AMPDeviceDiscoveryAgent,8413184
+444,ScreenTimeWidgetExtension,54407168
+443,WeatherWidget,58929152
+441,com.apple.Notes.WidgetExtension,42684416
+440,callservicesd,28639232
+438,CallHistoryPluginHelper,9568256
+436,WiFiVelocityAgent,5267456
+434,CloudKeychainProxy,22044672
+432,CoreServicesUIAgent,17006592
+431,Keychain Circle Notification,17276928
+430,ProtectedCloudKeySyncing,9314304
+429,cdpd,5562368
+428,sharingd,103079936
+427,CalNCService,23236608
+426,com.apple.quicklook.ThumbnailsAgent,15044608
+425,com.apple.dock.extra,35545088
+424,ContactsAccountsService,12308480
+423,useractivityd,12222464
+422,sharedfilelistd,11968512
+421,WiFiAgent,17670144
+420,iconservicesagent,25075712
+419,homed,27459584
+418,akd,64045056
+417,dmd,11673600
+416,ScreenTimeAgent,37965824
+415,identityservicesd,28143616
+414,lockoutagent,9187328
+413,routined,49582080
+412,photolibraryd,79147008
+411,itunescloudd,64782336
+410,rapportd,18223104
+409,tccd,15093760
+408,CalendarAgent,80814080
+407,ControlStrip,40374272
+406,APFSUserAgent,2625536
+405,networkserviceproxy,8413184
+404,nsurlsessiond,35311616
+403,CommCenter,25767936
+402,fontworker,10637312
+401,cloudd,104546304
+400,accountsd,52154368
+399,fontd,14446592
+398,pkd,13328384
+397,NotificationCenter,39698432
+396,containermanagerd,17756160
+394,bird,22470656
+393,secinitd,9637888
+392,QuickLookUIService,13000704
+391,pboard,8011776
+390,com.apple.hiservices-xpcservice,3502080
+389,usernoted,15929344
+388,ViewBridgeAuxiliary,10199040
+387,TrustedPeersHelper,14135296
+386,trustd,41086976
+383,backgroundtaskmanagementagent,7155712
+382,Finder,198713344
+381,SystemUIServer,30347264
+380,ControlCenter,40984576
+379,Dock,58949632
+378,talagent,14213120
+377,secd,68538368
+376,lsd,15073280
+375,knowledge-agent,24731648
+374,universalaccessd,11243520
+373,com.apple.sbd,64450560
+371,UserEventAgent,14704640
+369,cfprefsd,6877184
+368,coreauthd,7380992
+367,distnoted,12013568
+135,loginwindow,353812480
