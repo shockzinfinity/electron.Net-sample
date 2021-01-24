@@ -2,6 +2,11 @@
 
 ```
 $ dotnet tool install -g ElectronNet.CLI
-$ electronize build/target linux/PublishReadyToRun false
-
+```
+```
+$ electronize start
+```
+```
+# win(exe), osx(dmg), linux(AppImage)
+$ electronize build /target xxx /PublishReadyToRun false
 ```
